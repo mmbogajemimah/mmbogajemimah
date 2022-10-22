@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmbogajemimah
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning a job in Front-web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning a job in Front-web Development and Data Science
+- 💞️ I’m looking to collaborate on Projects in Data Science, Machine Learning or Front-web Development
 - 📫 How to reach me : Email @jemimahmmboga@gmail.com
 
 <!---
