@@ -28,9 +28,6 @@ You can click the Preview link to take a look at your changes.
 - Blog: [My Tech journey](https://jemmygreen.hashnode.dev/my-tech-journey)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmbogajemimah&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmbogajemimah&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jemmy_green/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemimah-mmboga-aab075187/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jemimahgreen) 
 
