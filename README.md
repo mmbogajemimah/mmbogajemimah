@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @mmbogajemimah
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning a job in Front-web Development and Data Science
-- 💞️ I’m looking to collaborate on Projects in Data Science, Machine Learning or Front-web Development
-- 📫 How to reach me : Email @jemimahmmboga@gmail.com
-
 <!---
 mmbogajemimah/mmbogajemimah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 # <span style="color: rgb(271,58,124)">Jemimah Mmboga, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jemimah-mmboga-aab075187/)
+- 👋 Hi, I’m @mmbogajemimah
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning a job in Front-web Development and Data Science
+- 💞️ I’m looking to collaborate on Projects in Data Science, Machine Learning or Front-web Development
+- 📫 How to reach me : Email @jemimahmmboga@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=jemimahmmboga&label=Visitor+Count&color=ff3a7c&style=plastic)
