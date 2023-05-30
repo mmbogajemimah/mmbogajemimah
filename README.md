@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=jemimahmmboga&label=Visitor+Count&color=ff3a7c&style=plastic)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Economist;Aulirophile;Experimenter)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Economist;Data+Scientist;Aulirophile;Experimenter)](https://git.io/typing-svg)
  
 - 👋 Hi, I’m Jemimah Mmboga
 - 👀 I’m interested in Front-end Web Development
