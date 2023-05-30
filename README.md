@@ -9,7 +9,7 @@ mmbogajemimah/mmbogajemimah is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# <span style="color: rgb(271,58,124)">Jemimah Mmboga, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karen-ngugi/)
+# <span style="color: rgb(271,58,124)">Jemimah Mmboga, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jemimah-mmboga-aab075187/)
 
 
 ![](https://komarev.com/ghpvc/?username=jemimahmmboga&label=Visitor+Count&color=ff3a7c&style=plastic)
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 - Blog: [My Tech journey](https://jemmygreen.hashnode.dev/my-tech-journey)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmbogajemimah&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNgugi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmbogajemimah&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmbogajemimah&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Tech toolkit: <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
